@@ -1,0 +1,11 @@
+Exercício: Nem só de PGAdmin vive o dev
+
+Podemos manipular os dados do nosso banco com aplicações como o PGAdmin.
+
+Entretanto, em algumas situações, se torna difícil e/ou burocrático demais escrever queries para criar cenários de testes ou ter uma visão geral dos modelos no banco.
+
+Para estes casos, podemos usar o Prisma Studio para nos ajudar.
+
+➡️ Inicie o Prisma Studio em um projeto com o Prisma configurado e tenta modificar os registros existentes e adicionar um novo.
+
+Você pode usar o código da aula anterior como exemplo, então rode esse comando dentro da pasta que tem o projeto da aula 03.
